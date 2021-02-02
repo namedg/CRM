@@ -10,6 +10,7 @@
 </template>
 
 <script>
+// 第一次测试修改
 /** 常用图片预览创建组件 */
 import VuePictureViewer from '@/components/vuePictureViewer/index'
 import { mapGetters } from 'vuex'
